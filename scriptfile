@@ -1,0 +1,17 @@
+This is script file created and started in master branch
+<<<<<<< HEAD
+This file is edited in git and in develop branch
+<<<<<<< HEAD
+This file is edited in git again in develop branch
+=======
+This file is edited in git hub and in develop branch
+>>>>>>> 64c59352e9c9e3d055b986517585e732ef5ab545
+=======
+This file is edited in master branch in github
+>>>>>>> 1691cb10f661fefeffa1251667d9aa1a85c3b044
+
+This is to test the pull command
+This is to test fetch command
+This is to test fetch again
+Third time to test the fetch command
+Fourth time to test the fetch command
