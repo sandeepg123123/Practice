@@ -1,3 +1,7 @@
 This is script file created and started in master branch
 This file is edited in git and in develop branch
+<<<<<<< HEAD
 This file is edited in git again in develop branch
+=======
+This file is edited in git hub and in develop branch
+>>>>>>> 64c59352e9c9e3d055b986517585e732ef5ab545
